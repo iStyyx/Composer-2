@@ -1,6 +1,7 @@
 <?php
     require_once '../src/wcs/Hello.php';
     require_once '../vendor/autoload.php';
+    use App\Wcs\Hello;
 
 ?>
 <!DOCTYPE html>
