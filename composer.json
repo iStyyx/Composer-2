@@ -1,0 +1,15 @@
+{
+    "name": "davy/test_composer",
+    "autoload": {
+        "psr-4": {
+            "Davy\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davy M.",
+            "email": "87863422+iStyyx@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
